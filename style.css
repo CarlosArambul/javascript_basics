@@ -1,0 +1,76 @@
+/*CSS reset settings here*/
+* {
+    margin: 10px;
+    padding: 0px;
+   }
+
+#wrapper{
+    width: 950px;
+    background-color: rgba(10, 71, 121, 0.877);
+    padding: 5px 5px 5px 5px;
+    display: block;
+   }
+
+ #header{
+    background-color: red;
+    display: block;
+    margin: 0 0 10px 0;
+    padding: 1px 0 1px 10px;
+    color: white;
+   }
+   
+#navigation{
+    width: 190px;
+    background-color: #3b8aa1e0;
+    display: block;
+    float: left;
+    padding: 5px 5px 5px 5px;
+    color: white;
+   }
+
+#navigation ul{
+       display: block;
+   }
+  
+
+#main_content{
+    width: 710px;
+    background-color: black;
+    display: inline;
+    color: white;
+    display: block;
+    margin: 0 0 0 220px;
+    padding: 5px 5px 5px 5px;
+   }
+
+#footer{
+    background-color: rgb(167, 164, 164);
+    padding: 10px;
+    margin: 10px 0 0 0;
+    display: block;
+   }
+
+.round_edge {
+    border-radius: 15px;
+   }
+
+span{
+       color: rgb(62, 114, 211);
+   }
+
+li{
+       display: list-item;
+   }
+
+li a{
+    color: cyan;
+    text-decoration: underline;
+    margin: 0 0 0 0;
+   }
+
+a{
+    color: cyan;
+   }
+
+
+   
